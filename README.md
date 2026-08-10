@@ -3,7 +3,7 @@
 React dashboard for **RLaaS** — a Rate Limiter as a Service platform. Companies register their application, verify their email, and get a UUID API key. The dashboard provides real-time analytics, per-route rule configuration, and traffic visualizations powered by the Django REST API.
 
 > 🔧 **Backend Repository:** [rlass](https://github.com/vanshsoni916/RLaaS-Backend)  
-> 🚀 **Live App:** https://rlaas-frontend.vercel.app
+> 🚀 **Live App:** [frontend](https://r-laa-s-front-end-red.vercel.app/)
 
 ---
 
