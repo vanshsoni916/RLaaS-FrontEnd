@@ -177,4 +177,4 @@ Vercel auto-deploys on every push to `main`.
 ## Author
 
 **Vansh Soni** — B.Tech ECE, IET Lucknow  
-Backend Developer | Django · React · Redis · Node.js · Express.js
+Full Stack Developer | Django · React · Redis · Node.js · Express.js
